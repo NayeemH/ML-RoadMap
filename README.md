@@ -1,4 +1,4 @@
-# 3 Months RoadMap For Data Science
+# 3 Months RoadMap For Machine learning
 
 ## Python:
 
